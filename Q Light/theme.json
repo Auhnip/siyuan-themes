@@ -1,0 +1,9 @@
+{
+  "name": "Q Light",
+  "author": "wqph",
+  "url": "https://github.com/Auhnip",
+  "version": "0.0.1",
+  "modes": [
+    "light"
+  ]
+}
